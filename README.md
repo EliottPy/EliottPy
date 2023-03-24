@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a second year student at CentraleSupelec in Metz
-- 🌱 I just started a personnal project in RL, trying to create an agent capable of playing Celeste on its own.
+- 🌱 I just started a personnal project in Computer Vision, to detect the style and year of a painting.
 - 📫 How to reach me: eliott.py@student-cs.fr
 
 <h3 align="left">Languages and Tools:</h3>
