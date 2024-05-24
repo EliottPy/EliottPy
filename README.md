@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a third year student in Computer Science at CentraleSupelec in Metz
-- 🌱 I just started a personnal RL projet, to beat my friend at chess.
+- 🔭 I’m currently a third year student in Computer Science at CentraleSupelec, doing an internship at Safran
+- 🌱 Always striving to improve my work.
 - 📫 How to reach me: eliott.py@student-cs.fr
 
 <h3 align="left">Languages and Tools:</h3>
